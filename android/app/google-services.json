@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "831416989292",
+    "firebase_url": "https://focusmedia-retail.firebaseio.com",
+    "project_id": "focusmedia-retail",
+    "storage_bucket": "focusmedia-retail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831416989292:android:2e69f9b6951a4148",
+        "android_client_info": {
+          "package_name": "com.focusmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831416989292-oalr8jduitr4cmk3b635p8dq89helpnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.focusmedia",
+            "certificate_hash": "b6859ac744a1c791d151cacbfb6b0adf65aeedd5"
+          }
+        },
+        {
+          "client_id": "831416989292-32mrmt70crfrbg5n8rka1csmffcr3gnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJW7X6tZvrW_v5sxbt-GD8h6xz-ZaqGrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831416989292-32mrmt70crfrbg5n8rka1csmffcr3gnm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831416989292-4ab88m47blm23frtbj1csalr406pqt6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.focusmedia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831416989292:android:e4132658009e0a10",
+        "android_client_info": {
+          "package_name": "com.focusmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831416989292-4nkbqqkmf79iriv4ubmujkqv00q8j51h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.focusmedia",
+            "certificate_hash": "9ce1a162cbcb9fc25db6c7cb2f11a4f879e2328a"
+          }
+        },
+        {
+          "client_id": "831416989292-7nrjqem4klm1d86r2b1pl4tpsai7cdbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.focusmedia",
+            "certificate_hash": "b6859ac744a1c791d151cacbfb6b0adf65aeedd5"
+          }
+        },
+        {
+          "client_id": "831416989292-32mrmt70crfrbg5n8rka1csmffcr3gnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJW7X6tZvrW_v5sxbt-GD8h6xz-ZaqGrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831416989292-32mrmt70crfrbg5n8rka1csmffcr3gnm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831416989292-4ab88m47blm23frtbj1csalr406pqt6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.focusmedia.retail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
